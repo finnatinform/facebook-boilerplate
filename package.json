@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/finnatinform/facebook-boilerplate#readme",
   "dependencies": {
+    "@types/flux": "^3.1.4",
     "@types/react": "^16.0.35",
     "@types/react-dom": "^16.0.3",
+    "flux": "^3.1.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },

@@ -1,0 +1,5 @@
+enum AppActionTypes {
+    
+}
+
+export = AppActionTypes ;
